@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Marcel's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharden08/portfolio.git"
+  },
+  "author": "Marcel Harden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharden08/portfolio/issues"
+  },
+  "homepage": "https://github.com/mharden08/portfolio#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
